@@ -5,5 +5,6 @@ public class MyClass {
         System.out.println("My third commit");
         System.out.println("My third commit");
         System.out.println("My third commit");
+        System.out.println("My third commit");
     }
 }
